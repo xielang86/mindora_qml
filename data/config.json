@@ -1,0 +1,52 @@
+{
+    "profile": {
+        "nickname": "",
+        "nicknameEnabled": true,
+        "religion": "no religion",
+        "pressureLevel": 1,
+        "sleepQuality": 1,
+        "healthProblems": [],
+        "Coacher": "mindora"
+    },
+    "status": {
+        "light": false,
+        "sprayer": true,
+        "sound": false,
+        "wifi": true,
+        "bluetooth": false,
+        "device": true
+    },
+    "alarm": [
+        {
+            "enabled": true,
+            "time": "15:33",
+            "bell": 0,
+            "cycle": []
+        },
+        {
+            "enabled": true,
+            "time": "00:04",
+            "bell": 1,
+            "cycle": []
+        }
+    ],
+    "voiceRecorder": true,
+    "videoRecorder": false,
+    "sleep_marked": [
+        [
+            3,
+            0,
+            4
+        ],
+        [
+            3,
+            0,
+            0
+        ],
+        [
+            1,
+            0,
+            2
+        ]
+    ]
+}

@@ -1,0 +1,2 @@
+module data
+singleton Constants 1.0 constants.qml

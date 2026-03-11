@@ -1,0 +1,41 @@
+{   
+     "status_icons": [
+        {"name":"light", "on":"resources/images/icons/TopBar_light_on.png", "off":"resources/images/icons/TopBar_light_off.png"},
+        {"name":"sprayer", "on":"resources/images/icons/TopBar_sprayer_on.png", "off":"resources/images/icons/TopBar_sprayer_off.png"},
+        {"name":"sound", "on":"resources/images/icons/TopBar_sound_on.png", "off":"resources/images/icons/TopBar_sound_off.png"},
+        {"name":"wifi", "on":"resources/images/icons/TopBar_wifi_on.png", "off":"resources/images/icons/TopBar_wifi_off.png"},
+        {"name":"bluetooth", "on":"resources/images/icons/TopBar_bluetooth_on.png", "off":"resources/images/icons/TopBar_bluetooth_off.png"},
+        {"name":"device", "on":"resources/images/icons/TopBar_device_on.png", "off":"resources/images/icons/TopBar_device_off.png"}
+    ],
+    "font_paths" : [
+        "resources/fonts/PingFang_Regular.ttf",
+        "resources/fonts/PingFang_Medium.ttf",
+        "resources/fonts/PingFang_Bold.ttf",
+        "resources/fonts/PingFang_Heavy.ttf",
+        "resources/fonts/PingFang_Light.ttf",
+        "resources/fonts/PingFang_ExtraLight.ttf",
+        "resources/fonts/Poppins-Regular.ttf"
+    ],
+    "clockPage_background": [
+        "resources/images/backScene/file_1.png",
+        "resources/images/backScene/file_2.png",
+        "resources/images/backScene/file_3.png",
+        "resources/images/backScene/file_4.png",
+        "resources/images/backScene/file_5.png",
+        "resources/images/backScene/file_6.png",
+        "resources/images/backScene/file_7.png",
+        "resources/images/backScene/file_8.png",
+        "resources/images/backScene/file_9.png",
+        "resources/images/backScene/file_10.png",
+        "resources/images/backScene/file_11.png",
+        "resources/images/backScene/file_12.png",
+        "resources/images/backScene/file_13.png",
+        "resources/images/backScene/file_14.png",
+        "resources/images/backScene/file_15.png",
+        "resources/images/backScene/file_16.png",
+        "resources/images/backScene/file_17.png",
+        "resources/images/backScene/file_18.png",
+        "resources/images/backScene/file_19.png",
+        "resources/images/backScene/file_20.png"
+    ]
+}
